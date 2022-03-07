@@ -1,0 +1,16 @@
+#Basic binds
+
+super + w 
+	$BROWSER
+
+super + g
+	$TERMINAL -e htop
+
+super + n
+	$TERMINAL -e nnn
+
+ctrl + alt + p
+	 flameshot gui
+
+ctrl + alt + k
+	keepassxc
